@@ -1,0 +1,146 @@
+* {
+    box-sizing: border-box;
+    padding: 0;
+    margin: 0;
+  }
+  /* Predominant colour for the front page  */
+  body {
+    background-color: #D9DCD6;
+  }
+  /* styling start for the header */
+  .header {
+    padding: 20px;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    background-color: #2A607C;
+    color: #FFFFFF;
+  }
+  .header h1 {
+    display: inline-block;
+    font-size: 48px;
+  }
+  .header h1 .seo {
+    color: #D9DCD6;
+  }
+  /* finished Header with styling  */
+  /* Navigation bar with styling start */
+  .header nav {
+    padding-top: 15px;
+    margin-right: 20px;
+    float: right;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    font-size: 20px;
+  }
+  .header nav ul {
+    list-style-type: none;
+  }
+  .header nav ul li {
+    display: inline-block;
+    margin-left: 25px;
+  }
+  /* Finished navigation bar styling */
+  a {
+    color: #FFFFFF;
+    text-decoration: none;
+  }
+  /* Predominant text paragragh sizing */
+  p {
+    font-size: 16px;
+  }
+  /* The hero image styling start */
+  .hero {
+    height: 800px;
+    width: 100%;
+    margin-bottom: 25px;
+    background-image: url("../images/digital-marketing-meeting.jpg");
+    background-size: cover;
+    background-position: center;
+  }
+  /* finished hero image styling  */
+  /*  IMAGE positioning with-in container for search engine optimisation and social media marketing */
+  .float-left {
+    float: left;
+    margin-right: 25px;
+  }
+  /*  IMAGE positioning with-in container for online reputation management  */
+  .float-right {
+    float: right;
+    margin-left: 25px;
+  }
+  .content {
+    width: 75%;
+    display: inline-block;
+    margin-left: 20px;
+  }
+  /* styling for aside benefits container and IMAGE positioning start */
+  .benefits {
+    margin-right: 20px;
+    padding: 20px;
+    clear: both;
+    float: right;
+    width: 20%;
+    height: 100%;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    background-color: #2589BD;
+  }
+  .benefit-section {
+    margin-bottom: 32px;
+    color: #FFFFFF;
+  }
+  .benefit-section h3 {
+    margin-bottom: 10px;
+    text-align: center;
+  }
+  .benefit-section img {
+    display: block;
+    margin: 10px auto;
+    max-width: 150px;
+  }
+  /* styling for aside benefits container  and IMAGE positioning completed */
+  /* optimization search engine styling container */
+  .info-section {
+    margin-bottom: 20px;
+    padding: 50px;
+    height: 300px;
+    font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
+    background-color: #0072BB;
+    color: #FFFFFF;
+  }
+  /* optimisation search engine for image height */
+  .info-section img {
+    max-height: 200px;
+  }
+  /* optimisation for search engine HEADER sizing */
+  .info-section h2 {
+    margin-bottom: 20px;
+    font-size: 36px;
+  }
+  /* styling start for footer and content */
+  .footer {
+    padding: 30px;
+    clear: both;
+    font-family: "Trebuchet MS", "Lucida Sans Unicode", "Lucida Grande",
+      "Lucida Sans", Arial, sans-serif;
+    text-align: center;
+  }
+  .footer h2 {
+    font-size: 20px;
+  }
+  /* styling for footer and content completed */
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
